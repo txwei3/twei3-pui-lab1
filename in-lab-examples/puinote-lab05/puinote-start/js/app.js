@@ -46,3 +46,5 @@ class Notecard {
   }
 
 }
+
+console.log(new Notecard('dummy image', 'dummy title', 'dummy body'));
